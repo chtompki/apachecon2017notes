@@ -2,4 +2,5 @@
 
 ### May 16, 2017
 
-* [keynotes](./keynotes0516)
+* [Keynotes](./keynotes0516)
+* [Commons State of the Union](./commons-state-of-the-union)
